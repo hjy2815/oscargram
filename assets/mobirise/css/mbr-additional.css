@@ -1555,8 +1555,8 @@ body {
   }
 }
 .cid-qXhADIaAlA {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1620,4 +1620,7 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qXhADIaAlA .copyright > p {
+  text-align: left;
 }
