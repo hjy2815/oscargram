@@ -1112,3 +1112,66 @@ body {
 .cid-qXhsbhZvgQ .mbr-section-btn {
   color: #444444;
 }
+.cid-qXhtUgty3r .mbr-text,
+.cid-qXhtUgty3r .typed-text,
+.cid-qXhtUgty3r .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-qXhtUgty3r .btn {
+  margin-left: 4px !important;
+}
+.cid-qXhtUgty3r .animated-element {
+  color: #ffbc00;
+}
+.cid-qXhtUgty3r .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffbc00;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.cid-qXhtUgty3r .mbr-section-title {
+  text-align: left;
+  color: #ff7140;
+}
+.cid-qXhtUgty3r SPAN {
+  text-align: right;
+  color: #ffaa40;
+}
+.cid-qXhtUgty3r .mbr-section-text,
+.cid-qXhtUgty3r .mbr-section-btn {
+  text-align: left;
+}
