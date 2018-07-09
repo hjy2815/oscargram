@@ -1542,6 +1542,18 @@ body {
 .cid-qXhwLmNNE2 .underline B {
   color: #ff7140;
 }
+.cid-qXhBQJO9oL {
+  background: #ffffff;
+}
+.cid-qXhBQJO9oL .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qXhBQJO9oL .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qXhADIaAlA {
   padding-top: 60px;
   padding-bottom: 60px;
